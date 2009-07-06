@@ -1,0 +1,5 @@
+$OPP = [SIL] UP [SIL];
+$NED = [SIL] DOWN [SIL];
+$VENSTRE = [SIL] LEFT [SIL];
+$HOYRE = [SIL] RIGHT [SIL];
+($OPP | $NED | $VENSTRE | $HOYRE)

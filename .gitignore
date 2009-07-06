@@ -1,0 +1,13 @@
+.DS_Store
+*.o
+*.dep
+*.pbxbtree
+*.header
+*.pbxsymbols
+*.pbxuser
+*.wav
+*.svn*
+*.png
+build/cutemaze.build/cutemaze.pbxindex/*.pbxbtree
+*.xcodeproj*
+*.app*
